@@ -73,8 +73,6 @@ $$
 
 ### 1: ρ = 0.3 
 
-<img width="906" height="491" alt="image" src="https://github.com/user-attachments/assets/ed57e566-3e4e-4f64-b9d5-431293c2652e" />
-
 
 - $\lambda = 0.3$
 - $\mu = 1.0$
@@ -97,8 +95,6 @@ $$
 
 ## 2: ρ = 0.7 
 
-<img width="915" height="497" alt="image" src="https://github.com/user-attachments/assets/b968ffc0-76c2-4e81-afc5-110aa260db47" />
-
 
  - $\lambda = 0.7$
 - $\mu = 1.0$
@@ -120,8 +116,6 @@ $$
 ---
 
 ## 3: ρ= 0.9 
-
-<img width="921" height="484" alt="image" src="https://github.com/user-attachments/assets/7280ed2f-ddc2-4527-a8d8-d5649bc9b87c" />
 
 
  - $\lambda = 0.9$
@@ -157,6 +151,9 @@ $$
 
 ## Caso 1: ρ = 0.3
 
+<img width="906" height="491" alt="image" src="https://github.com/user-attachments/assets/c6d88a8c-9ceb-42f0-a49c-08a954bb564a" />
+
+
 | Métrica | Teórico | Simulación | Diferencia | Error Relativo (%) |
 |---------|---------|------------|------------|-------------------|
 | **Nw** | 0.1286 | 0.129 | +0.0004 | 0.31% |
@@ -171,6 +168,9 @@ $$
 
 ## Caso 2: ρ = 0.7
 
+<img width="915" height="497" alt="image" src="https://github.com/user-attachments/assets/f7714633-9fcd-4f7d-91f3-b89cfb7aea9a" />
+
+
 | Métrica | Teórico | Simulación | Diferencia | Error Relativo (%) |
 |---------|---------|------------|------------|-------------------|
 | **Nw** | 1.6333 | 1.626 | -0.0073 | 0.45% |
@@ -184,6 +184,9 @@ $$
 ---
 
 ## Caso 3: ρ = 0.9
+
+<img width="921" height="484" alt="image" src="https://github.com/user-attachments/assets/a1ea8a26-316d-4e36-b0d4-495d01bd55d8" />
+
 
 | Métrica | Teórico | Simulación | Diferencia | Error Relativo (%) |
 |---------|---------|------------|------------|-------------------|
