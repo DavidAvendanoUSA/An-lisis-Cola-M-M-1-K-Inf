@@ -73,6 +73,9 @@ $$
 
 ### 1: ρ = 0.3 
 
+<img width="906" height="491" alt="image" src="https://github.com/user-attachments/assets/ed57e566-3e4e-4f64-b9d5-431293c2652e" />
+
+
 - $\lambda = 0.3$
 - $\mu = 1.0$
 - $\rho = \lambda / \mu = 0.3$
@@ -94,6 +97,9 @@ $$
 
 ## 2: ρ = 0.7 
 
+<img width="915" height="497" alt="image" src="https://github.com/user-attachments/assets/b968ffc0-76c2-4e81-afc5-110aa260db47" />
+
+
  - $\lambda = 0.7$
 - $\mu = 1.0$
 - $\rho = \lambda / \mu = 0.7$
@@ -114,6 +120,9 @@ $$
 ---
 
 ## 3: ρ= 0.9 
+
+<img width="921" height="484" alt="image" src="https://github.com/user-attachments/assets/7280ed2f-ddc2-4527-a8d8-d5649bc9b87c" />
+
 
  - $\lambda = 0.9$
 - $\mu = 1.0$
